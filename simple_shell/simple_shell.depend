@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1604952775 source:/home/eslam11/Desktop/codeblocks/simple_shell/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<signal.h>
+	<time.h>
+	<sys/wait.h>
+
